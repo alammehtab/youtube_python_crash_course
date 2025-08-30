@@ -109,3 +109,9 @@ print("I am learning Python with Alkoders!")
 # Division: 3.3333...
 # Floor Division: 3
 # Power: 1000
+
+# 🏋️ Exercises
+# 1. Write a program to calculate the area of a rectangle.
+# 2. Check if a number is even or odd.
+# 3. Compare two numbers and print which one is greater.
+
