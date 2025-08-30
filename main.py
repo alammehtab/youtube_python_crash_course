@@ -306,3 +306,23 @@ print("I am learning Python with Alkoders!")
 # 2. Update the dictionary to add "country": "Pakistan"
 # .
 # 3. Create a dictionary of 3 students and their marks, then print them.
+
+# ✅ Solutions
+# # 1. Basic dictionary
+# person = {"name": "Ali"
+# ,
+# "age": 20,
+# "city": "Karachi"}
+# print(person["name"], person["age"], person["city"])
+# # 2. Adding new key
+# person["country"] =
+# "Pakistan"
+# print(person)
+# # 3. Students dictionary
+# marks = {"Ali": 85,
+# "Sara": 92,
+# "Ahmed": 78}
+# for student, score in marks.items():
+# print(student,
+# "scored"
+# , score)
