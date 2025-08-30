@@ -427,3 +427,8 @@ print("I am learning Python with Alkoders!")
 # print(math.sqrt(25))
 # print(random.randint(1, 10))
 # print(datetime.datetime.now())
+
+# Exercises
+# 1. Use math.factorial() to find factorial of 6.
+# 2. Generate 5 random numbers between 1–100.
+
