@@ -356,3 +356,16 @@ print("I am learning Python with Alkoders!")
 # fact *= i
 # return fact
 # print(factorial(5))
+
+# Examples
+# # Writing to a file
+# with open("hello.txt"
+# ,
+# "w") as f:
+# f.write("Hello, Python!\n")
+# # Reading from a file
+# with open("hello.txt"
+# ,
+# "r") as f:
+# content = f.read()
+# print(content)
