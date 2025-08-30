@@ -253,3 +253,12 @@ print("I am learning Python with Alkoders!")
 # # Tuple
 # coords = (10, 20)
 # print(coords[1]) # 20
+
+# 🏋️ Exercises
+# 1. Make a list of 5 favorite movies and print them one by one.
+# 2. Create a tuple of 3 numbers and calculate their sum.
+# 3. Remove "banana" from the list: ["apple"
+# ,
+# "banana"
+# ,
+# "mango"].
