@@ -289,3 +289,14 @@ print("I am learning Python with Alkoders!")
 # "mango"]
 # fruits.remove("banana")
 # print(fruits)
+
+# 💻 Code Example
+# student = {
+# "name": "Ali"
+# ,
+# "age": 20,
+# "grade": "A"
+# }
+# print(student["name"])
+# student["age"] = 21
+# print(student)
