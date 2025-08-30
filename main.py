@@ -163,3 +163,28 @@ print("I am learning Python with Alkoders!")
 # 3. Ask the user for their age and print whether they are a child (<13), teenager (13–19), or
 # adult (20+).
 
+# ✅ Solutions
+# # 1. Positive/Negative/Zero
+# num = int(input("Enter a number: "))
+# if num > 0:
+# print("Positive")
+# elif num < 0:
+# print("Negative")
+# else:
+# print("Zero")
+# # 2. Grading system
+# marks = int(input("Enter marks: "))
+# if marks >= 80:
+# print("Grade A")
+# elif marks >= 60:
+# print("Grade B")
+# else:
+# print("Fail")
+# # 3. Age classification
+# age = int(input("Enter your age: "))
+# if age < 13:
+# print("Child")
+# elif age <= 19:
+# print("Teenager")
+# else:
+# print("Adult")
