@@ -487,3 +487,19 @@ print("I am learning Python with Alkoders!")
 # print("Too high!")
 # print("🎉 Correct! The number was"
 # , target)
+
+# 3. To-Do List CLI
+# todos = []
+# while True:
+# action = input("Choose: add/show/quit: ")
+# if action ==
+# "add":
+# task = input("Enter task: ")
+# todos.append(task)
+# elif action ==
+# "show":
+# for i, t in enumerate(todos, 1):
+# print(i, t)
+# elif action ==
+# "quit":
+# break
