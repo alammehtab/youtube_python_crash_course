@@ -87,3 +87,25 @@ print("I am learning Python with Alkoders!")
 # text = input("Enter something: ")
 # print("Uppercase:"
 # , text.upper())
+
+# 💻 Code Example
+# x, y = 10, 3
+# print("Addition:"
+# , x + y)
+# print("Subtraction:"
+# , x - y)
+# print("Multiplication:"
+# , x * y)
+# print("Division:"
+# , x / y)
+# print("Floor Division:"
+# , x // y)
+# print("Power:"
+# , x ** y)
+# 👉 Output:
+# Addition: 13
+# Subtraction: 7
+# Multiplication: 30
+# Division: 3.3333...
+# Floor Division: 3
+# Power: 1000
