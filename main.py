@@ -374,3 +374,20 @@ print("I am learning Python with Alkoders!")
 # 1. Write your name to a file.
 # 2. Read and print the file content.
 # 3. Append a new line to the same file.
+
+# Solutions
+# # 1
+# with open("me.txt"
+# ,
+# "w") as f:
+# f.write("My name is Ali")
+# # 2
+# with open("me.txt"
+# ,
+# "r") as f:
+# print(f.read())
+# # 3
+# with open("me.txt"
+# ,
+# "a") as f:
+# f.write("\nI love Python")
