@@ -421,3 +421,9 @@ print("I am learning Python with Alkoders!")
 # , y)
 # except ValueError:
 # print("Not a valid integer!")
+
+# Examples
+# import math, random, datetime
+# print(math.sqrt(25))
+# print(random.randint(1, 10))
+# print(datetime.datetime.now())
