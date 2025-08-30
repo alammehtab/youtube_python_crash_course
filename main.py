@@ -432,3 +432,8 @@ print("I am learning Python with Alkoders!")
 # 1. Use math.factorial() to find factorial of 6.
 # 2. Generate 5 random numbers between 1–100.
 
+# Solutions
+# import math, random
+# print(math.factorial(6))
+# nums = [random.randint(1, 100) for _ in range(5)]
+# print(nums)
