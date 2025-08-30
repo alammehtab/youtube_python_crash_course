@@ -405,3 +405,19 @@ print("I am learning Python with Alkoders!")
 # Exercises
 # 1. Handle division by zero error.
 # 2. Handle invalid integer input.
+
+# Solutions
+# # 1
+# try:
+# x = int(input("Enter number: "))
+# print(100 / x)
+# except ZeroDivisionError:
+# print("Oops! Division by zero.
+# ")
+# # 2
+# try:
+# y = int(input("Enter integer: "))
+# print("You entered:"
+# , y)
+# except ValueError:
+# print("Not a valid integer!")
