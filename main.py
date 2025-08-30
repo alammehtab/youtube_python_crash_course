@@ -342,3 +342,17 @@ print("I am learning Python with Alkoders!")
 # .
 # 2. Write a function to calculate the sum of two numbers.
 # 3. Write a function to find the factorial of a number.
+
+# Solutions
+# def square(n):
+# return n * n
+# print(square(4))
+# def add(a, b):
+# return a + b
+# print(add(10, 7))
+# def factorial(n):
+# fact = 1
+# for i in range(1, n+1):
+# fact *= i
+# return fact
+# print(factorial(5))
