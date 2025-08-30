@@ -336,3 +336,9 @@ print("I am learning Python with Alkoders!")
 # return a + b
 # greet("Ali")
 # print(add(5, 3))
+
+# Exercises
+# 1. Create a function square(n) → returns n²
+# .
+# 2. Write a function to calculate the sum of two numbers.
+# 3. Write a function to find the factorial of a number.
