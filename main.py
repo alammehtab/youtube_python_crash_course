@@ -474,3 +474,16 @@ print("I am learning Python with Alkoders!")
 # else:
 # print("Cannot divide by zero")
 # calculator()
+
+# 2. Number Guessing Game
+# import random
+# target = random.randint(1, 10)
+# guess = 0
+# while guess != target:
+# guess = int(input("Guess a number (1–10): "))
+# if guess < target:
+# print("Too low!")
+# elif guess > target:
+# print("Too high!")
+# print("🎉 Correct! The number was"
+# , target)
