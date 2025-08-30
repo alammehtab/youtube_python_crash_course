@@ -300,3 +300,9 @@ print("I am learning Python with Alkoders!")
 # print(student["name"])
 # student["age"] = 21
 # print(student)
+
+# 🏋️ Exercises
+# 1. Create a dictionary with name, age, city and print values.
+# 2. Update the dictionary to add "country": "Pakistan"
+# .
+# 3. Create a dictionary of 3 students and their marks, then print them.
