@@ -326,3 +326,13 @@ print("I am learning Python with Alkoders!")
 # print(student,
 # "scored"
 # , score)
+
+# Examples
+# def greet(name):
+# print("Hello,
+# "
+# , name)
+# def add(a, b):
+# return a + b
+# greet("Ali")
+# print(add(5, 3))
