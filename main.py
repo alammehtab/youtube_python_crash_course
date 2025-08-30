@@ -437,3 +437,40 @@ print("I am learning Python with Alkoders!")
 # print(math.factorial(6))
 # nums = [random.randint(1, 100) for _ in range(5)]
 # print(nums)
+
+# Mini Projects
+# 1. Simple Calculator
+# def calculator():
+# a = float(input("Enter first number: "))
+# b = float(input("Enter second number: "))
+# op = input("Enter operator (+,
+# -
+# ,
+# *
+# ,/): ")
+# if op ==
+# "+":
+# print("Result =
+# "
+# , a+b)
+# elif op ==
+# "
+# -
+# ":
+# print("Result =
+# "
+# , a-b)
+# elif op ==
+# "*":
+# print("Result =
+# "
+# , a*b)
+# elif op ==
+# "/":
+# if b != 0:
+# print("Result =
+# "
+# , a/b)
+# else:
+# print("Cannot divide by zero")
+# calculator()
