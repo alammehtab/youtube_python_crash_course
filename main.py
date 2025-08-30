@@ -262,3 +262,30 @@ print("I am learning Python with Alkoders!")
 # "banana"
 # ,
 # "mango"].
+
+# ✅ Solutions
+# # 1. Movies list
+# movies = ["Inception"
+# ,
+# "Titanic"
+# ,
+# "Avengers"
+# ,
+# "Interstellar"
+# ,
+# "Batman"]
+# for movie in movies:
+# print(movie)
+# # 2. Tuple sum
+# nums = (5, 10, 15)
+# print("Sum =
+# "
+# , sum(nums))
+# # 3. Removing banana
+# fruits = ["apple"
+# ,
+# "banana"
+# ,
+# "mango"]
+# fruits.remove("banana")
+# print(fruits)
