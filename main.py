@@ -239,3 +239,17 @@ print("I am learning Python with Alkoders!")
 # # 4. Even numbers
 # for i in range(2, 51, 2):
 # print(i)
+
+# 💻 Code Example
+# # List
+# fruits = ["apple"
+# ,
+# "banana"
+# ,
+# "mango"]
+# print(fruits[0]) # apple
+# fruits.append("orange")
+# print(fruits)
+# # Tuple
+# coords = (10, 20)
+# print(coords[1]) # 20
