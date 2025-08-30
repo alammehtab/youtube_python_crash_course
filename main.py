@@ -115,3 +115,27 @@ print("I am learning Python with Alkoders!")
 # 2. Check if a number is even or odd.
 # 3. Compare two numbers and print which one is greater.
 
+# ✅ Solutions
+# # 1. Area of rectangle
+# length = int(input("Enter length: "))
+# width = int(input("Enter width: "))
+# print("Area =
+# "
+# , length * width)
+# # 2. Even or odd
+# num = int(input("Enter a number: "))
+# if num % 2 == 0:
+# print("Even")
+# else:
+# print("Odd")
+# # 3. Greater number
+# a = int(input("Enter first number: "))
+# b = int(input("Enter second number: "))
+# if a > b:
+# print(a,
+# "is greater")
+# elif b > a:
+# print(b,
+# "is greater")
+# else:
+# print("Both are equal")
