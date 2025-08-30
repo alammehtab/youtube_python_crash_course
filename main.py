@@ -150,3 +150,16 @@ print("I am learning Python with Alkoders!")
 # print("You are a Minor")
 # 👉 Output (for age=20):
 # You are an Adult
+
+# 🏋️ Exercises
+# 1. Write a program that checks if a number is positive, negative, or zero.
+# 2. Take marks input and print grades:
+# ○
+# >= 80 → Grade A
+# ○
+# >= 60 → Grade B
+# ○
+# else → Fail
+# 3. Ask the user for their age and print whether they are a child (<13), teenager (13–19), or
+# adult (20+).
+
