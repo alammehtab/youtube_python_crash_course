@@ -401,3 +401,7 @@ print("I am learning Python with Alkoders!")
 # except ValueError:
 # print("Invalid input! Please enter a number.
 # ")
+
+# Exercises
+# 1. Handle division by zero error.
+# 2. Handle invalid integer input.
