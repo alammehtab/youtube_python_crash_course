@@ -369,3 +369,8 @@ print("I am learning Python with Alkoders!")
 # "r") as f:
 # content = f.read()
 # print(content)
+
+# Exercises
+# 1. Write your name to a file.
+# 2. Read and print the file content.
+# 3. Append a new line to the same file.
