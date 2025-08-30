@@ -208,3 +208,34 @@ print("I am learning Python with Alkoders!")
 # break # stop at 5
 # print(i)
 
+# 🏋️ Exercises
+# 1. Print all numbers from 1 to 100.
+# 2. Print the multiplication table of a number given by the user.
+# 3. Calculate the sum of numbers from 1 to N (user input).
+# 4. Print only even numbers from 1 to 50.
+
+# ✅ Solutions
+# # 1. Numbers 1 to 100
+# for i in range(1, 101):
+# print(i)
+# # 2. Multiplication table
+# n = int(input("Enter number: "))
+# for i in range(1, 11):
+# print(n,
+# "x"
+# , i,
+# "
+# =
+# "
+# , n * i)
+# # 3. Sum of 1 to N
+# n = int(input("Enter number: "))
+# total = 0
+# for i in range(1, n + 1):
+# total += i
+# print("Sum =
+# "
+# , total)
+# # 4. Even numbers
+# for i in range(2, 51, 2):
+# print(i)
