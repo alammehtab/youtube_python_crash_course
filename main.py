@@ -391,3 +391,13 @@ print("I am learning Python with Alkoders!")
 # ,
 # "a") as f:
 # f.write("\nI love Python")
+
+# Examples
+# try:
+# num = int(input("Enter a number: "))
+# print(10 / num)
+# except ZeroDivisionError:
+# print("You cannot divide by zero!")
+# except ValueError:
+# print("Invalid input! Please enter a number.
+# ")
