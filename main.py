@@ -139,3 +139,14 @@ print("I am learning Python with Alkoders!")
 # "is greater")
 # else:
 # print("Both are equal")
+
+# 💻 Code Example
+# age = int(input("Enter your age: "))
+# if age >= 18:
+# print("You are an Adult")
+# elif age == 17:
+# print("Almost there!")
+# else:
+# print("You are a Minor")
+# 👉 Output (for age=20):
+# You are an Adult
